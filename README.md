@@ -24,3 +24,13 @@ pip install jupyter
 
 6. Run the Jupyter Notebook and open the `PyDataCourse.ipynb` file.
 
+
+7. On FASRC Cluster Terminal:
+
+```
+module load Anaconda3  (skip on your laptop)
+conda create --name pycourse python=3.7
+source activate pycourse
+pip install jupyter vprof snakeviz numpy perfplot pandas
+conda install pytables
+```
