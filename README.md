@@ -29,7 +29,7 @@ pip install jupyter
 
 ```
 module load Anaconda3  (skip on your laptop)
-conda create --name pycourse python=3.7
+conda create --name pycourse python=3.11
 source activate pycourse
 pip install jupyter vprof snakeviz numpy perfplot pandas
 conda install pytables
