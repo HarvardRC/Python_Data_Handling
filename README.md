@@ -1,9 +1,9 @@
-### Large Data Handling in Python Class
+### Data Handling in Python Workshop
 
 #### How to create the environment?
 
-1. Clone or download the Github repository. 
-2. Install Miniconda or Anaconda on your [Linux or Windows](https://docs.conda.io/en/latest/miniconda.html) machine or use FASRC Cannon cluster. 
+1. Clone or download the Github repository.
+2. Install Miniconda or Anaconda on your [Linux or Windows](https://docs.conda.io/en/latest/miniconda.html) machine or use FASRC Cannon cluster.
 3. Create a Conda environment for this course using the following command,
 
 ```bash
